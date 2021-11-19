@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactrobots/static/css/main.4cde6567.chunk.css",
+    "main.js": "/reactrobots/static/js/main.ffc2bc9b.chunk.js",
+    "main.js.map": "/reactrobots/static/js/main.ffc2bc9b.chunk.js.map",
+    "runtime-main.js": "/reactrobots/static/js/runtime-main.78df982e.js",
+    "runtime-main.js.map": "/reactrobots/static/js/runtime-main.78df982e.js.map",
+    "static/css/2.31461e4f.chunk.css": "/reactrobots/static/css/2.31461e4f.chunk.css",
+    "static/js/2.d40eea25.chunk.js": "/reactrobots/static/js/2.d40eea25.chunk.js",
+    "static/js/2.d40eea25.chunk.js.map": "/reactrobots/static/js/2.d40eea25.chunk.js.map",
+    "static/js/3.5544d60d.chunk.js": "/reactrobots/static/js/3.5544d60d.chunk.js",
+    "static/js/3.5544d60d.chunk.js.map": "/reactrobots/static/js/3.5544d60d.chunk.js.map",
+    "index.html": "/reactrobots/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/reactrobots/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.4cde6567.chunk.css.map": "/reactrobots/static/css/main.4cde6567.chunk.css.map",
+    "static/js/2.d40eea25.chunk.js.LICENSE.txt": "/reactrobots/static/js/2.d40eea25.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactrobots/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78df982e.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.d40eea25.chunk.js",
+    "static/css/main.4cde6567.chunk.css",
+    "static/js/main.ffc2bc9b.chunk.js"
+  ]
+}
